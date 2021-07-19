@@ -38,5 +38,3 @@ class Album
     @@albums.delete(self.id)
   end
 end
-
-# Michael Reiersgaard <michael.reiersgaard@gmail.com>
